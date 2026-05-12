@@ -14,13 +14,6 @@ CSS3: Estilização, Flexbox, Grid Layout e animações.
 
 Design: Aplicação de conceitos de UI/UX (foco em temas modernos e responsivos).
 
-📂 Organização do Conteúdo
-
-Os arquivos estão organizados por módulos ou temas das aulas:
-
-/projetos: Pequenas páginas ou componentes desenvolvidos durante o semestre.
-
-
 ✉️ Contato
 
 Nome: Illana Vitória Souza Rabelo
